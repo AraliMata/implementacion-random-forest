@@ -10,4 +10,4 @@ El conjunto de datos utilizado tiene las siguientes columnas:
 - Especie: Especie de Iris (0-> Setosa, 1->Versicolor, 2->Virginica)
 
 ## Instrucciones de uso
-Para probar la implementación es necesario descargar el código y correrlo.
+Para probar la implementación es necesario descargar el código, abrir el archivo ImplementacionModelo.py y correrlo.
